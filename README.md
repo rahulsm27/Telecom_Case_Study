@@ -1,4 +1,4 @@
-# Telecom-Case-study
+# Telecom Casestudy
 
 ## Problem Statement:
 The primary business goal for telecom companies is to retain high-profitable customers. Churn, or the loss of customers, directly impacts revenue and profitability. Identifying customers who are likely to churn before they actually do provides an opportunity to intervene with targeted retention efforts.
